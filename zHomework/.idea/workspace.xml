@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631ce5a2-f4f6-4c94-842d-000e0e0d684a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hello/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zExamples/src/UF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../binary_search_recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zExamples/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../zExamples/.idea/checkstyle-idea.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zHomework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zHomework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/algs4.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -61,6 +68,7 @@
       <workItem from="1648466965776" duration="3072000" />
       <workItem from="1648521579924" duration="740000" />
       <workItem from="1648535360480" duration="32000" />
+      <workItem from="1652790066768" duration="8886000" />
     </task>
     <servers />
   </component>
