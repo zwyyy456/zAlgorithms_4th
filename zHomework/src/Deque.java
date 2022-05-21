@@ -126,5 +126,7 @@ public class Deque<Item> implements Iterable<Item> {
                 StdOut.print(myDeque.removeFirst() + " " + myDeque.removeLast() + " ");
         }
         StdOut.println("(" + myDeque.size() + " left on queue)");
+        for (String s : myDeque)
+            StdOut.print(s + " ");
     }
 }
