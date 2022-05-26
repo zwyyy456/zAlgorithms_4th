@@ -34,7 +34,7 @@ public class Deque<Item> implements Iterable<Item> {
         if (item == null)
             throw new IllegalArgumentException("argument can't be null");
         Node oldfirst = first;
-        first = new Node();
+        Node first = new Node();
         first.item = item;
         first.next = oldfirst;
         first.prev = null;
@@ -49,19 +49,16 @@ public class Deque<Item> implements Iterable<Item> {
         if (item == null)
             throw new IllegalArgumentException("argument can't be null");
         Node oldlast = last;
-        last = new Node();
+        Node last = new Node();
         last.item = item;
         last.next = null;
         last.prev = oldlast;
         if (isEmpty())
             first = last;
-        else {
+        else
             oldlast.next = last;
-        }
-
         n++;
     }
-
 
     public Item removeFirst() {
         if (isEmpty())
@@ -118,18 +115,10 @@ public class Deque<Item> implements Iterable<Item> {
         }
     }
     public static void main(String[] args) {
-        Deque<String> myDeque = new Deque<String>();
-        while (!StdIn.isEmpty()) {
-            String item = StdIn.readString();
-            if (!item.equals("-")) {
-                myDeque.addFirst(item);
-                myDeque.addLast(item);
-            }
-            else if (!myDeque.isEmpty())
-                StdOut.print(myDeque.removeFirst() + " " + myDeque.removeLast() + " ");
-        }
-        StdOut.println("(" + myDeque.size() + " left on queue)");
-        for (String s : myDeque)
-            StdOut.print(s + " ");
+        Deque<Integer> myDeque = new Deque<Integer>();
+        myDeque.addLast(1);
+        myDeque.addLast(2);
+        for (Integer i : myDeque)
+            StdOut.println(i);
     }
 }
