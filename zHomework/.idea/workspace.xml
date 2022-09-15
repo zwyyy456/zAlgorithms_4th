@@ -5,27 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631ce5a2-f4f6-4c94-842d-000e0e0d684a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../hello/Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/queues.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zDq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zTest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zTest/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zTest/src/Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../zTest/zTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/.idea/inspectionProfiles/Algorithms__Part_I.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/.idea/libraries/algs4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hello/Algorithms, Part I.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/Algorithms, Part I.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/algs4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BruteCollinearPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FastCollinearPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LineSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/归档.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RandomizedQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zHomework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/zHomework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/queues.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zDq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zDq.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +73,7 @@
       <workItem from="1653288762529" duration="88000" />
       <workItem from="1653289015665" duration="3983000" />
       <workItem from="1653295446738" duration="698000" />
-      <workItem from="1653296413353" duration="6628000" />
+      <workItem from="1653296413353" duration="29683000" />
     </task>
     <servers />
   </component>
